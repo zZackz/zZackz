@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=10000&pause=500&color=00BFBF&background=FF86B000&center=true&vCenter=true&multiline=true&width=500&lines=Hello%2C+my+name+is+Ramiris+Cust%C3%B3dio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=10000&pause=500&color=00BFBF&background=FF86B000&vCenter=true&multiline=true&width=500&lines=Hello%2C+my+name+is+Ramiris+Cust%C3%B3dio)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate blockchain developer from Brazil</h3>
 
